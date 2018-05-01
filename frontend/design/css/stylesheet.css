@@ -1,0 +1,185 @@
+html {
+
+}
+
+body {
+  background: url(../../images/free-wallpaper-3.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Open Sans";
+  color: #FFFFFF;
+}
+
+.wrapper {
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.layer {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.header {
+  background-color: #4F575E;
+  padding: 10px;
+  overflow: hidden;
+}
+
+.logo {
+  float: left;
+}
+
+.title {
+  float: left;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+.account-actions {
+  float: right;
+  margin-top: 30px;
+  margin-right: 25px;
+}
+
+.content {
+  background-color: #4F575E;
+  height: auto;
+  padding: 10px;
+}
+
+.footer {
+  background-color: #4F575E;
+  padding: 10px;
+  text-align: center;
+}
+
+.turf-wrapper {
+  width: 100%;
+  height: 100%:
+}
+
+.turf {
+  width: 560px;
+  height: 570px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+  background-image: url("../../images/StreetView.jpg");
+}
+
+.business {
+  margin-top: 58px;
+  margin-left: 54px;
+}
+
+.counterfeit {
+  margin-top: 39px;
+  margin-left: 110px;
+}
+
+.resources {
+  background-color: #121B25;
+  width: 250px;
+  height: 570px;
+  padding: 10px;
+  float: left;
+}
+
+.gangs {
+  background-color: #121B25;
+  width: 250px;
+  height: 570px;
+  padding: 10px;
+  float: left;
+  overflow: auto;
+}
+
+.gangList {
+  background-color: #000000;
+  margin: 5px;
+  padding: 5px;
+}
+
+.gangWrapper {
+  background-color: #FF00FF;
+  margin: 2 auto;
+}
+
+.aGang {
+  background-color: #123a4c;
+  margin: 0 auto;
+}
+
+.container {
+  background-color: #1A1F24;
+}
+
+.forum-messages {
+  background-color: #121B25;
+  width: 100%;
+  height: 300px;
+  padding: 10px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#chat-wrapper {
+  background-color: #1A1F24;
+  width: 60%;
+  postion: relative;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#chat_box {
+  width: 95%;
+  height: 400px;
+  margin: 0 auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#chat_content {
+  background-color: #4F575E;
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid black;
+  font-weight: bold;
+}
+
+#chat-wrapper form {
+  margin: 0 auto;
+}
+
+#chat-wrapper input[type='text'] {
+  width: 100%;
+  height: 40px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+#chat-wrapper input[type='submit'] {
+  width: 100%;
+  height: 40px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+#chat-wrapper textarea {
+  width: 100%;
+  height: 40px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.wordwrap {
+   white-space: pre-wrap;      /* CSS3 */
+   white-space: -moz-pre-wrap; /* Firefox */
+   white-space: -pre-wrap;     /* Opera <7 */
+   white-space: -o-pre-wrap;   /* Opera 7 */
+   word-wrap: break-word;      /* IE */
+}
