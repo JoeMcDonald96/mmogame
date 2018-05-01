@@ -33,7 +33,7 @@ Steal from other players.
 Buy/Sell in game items.
 Live chat with other players (forgot to demonstrate this fully in 
 video. Sending chat messages updates chat for all concurrent users 
-using chat page).
+using chat page. Using AJAX request).
 Player leaderboard.
 
 Features to add:
